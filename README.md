@@ -6,7 +6,7 @@ _def: A Web crawler, sometimes called a spider, is an Internet bot that systemat
 
 ### Brief
 
-To write a simple web crawler, limited to one domain - so when you start with https://website.com/, it would crawl all pages within website.com, but not follow external links, for example to the Facebook and Twitter accounts. Given a URL, it should print a simple site map, showing the links between pages.
+Write a simple web crawler, limited to one domain - so when you start with https://monzo.com/, it would crawl all pages within monzo.com, but not follow external links, for example to the Facebook and Twitter accounts. Given a URL, it should print a simple site map, showing the links between pages.
 
 Bonus points for tests and making it as fast as possible!
 
